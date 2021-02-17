@@ -1,0 +1,9 @@
+{
+  "name": "feather",
+  "title": "Feather",
+  "description": "Minimal store template.",
+  "author": "Jeff Jola",
+  "version": "1.0.0",
+  "parent": "",
+  "banner": "feather.png"
+}
